@@ -1,9 +1,5 @@
 project_name: "block-google-campaign-manager-dv360-dts"
 
-constant: CONFIG_PROJECT_NAME {
-  value: "cm-block-config"
-  export: override_required
-}
 constant: CONNECTION_NAME {
   value: "your_bq_connection_name"
   export: override_required
@@ -43,11 +39,4 @@ constant: MINIMUM_CONVERSIONS_CLUSTER {
   ### This is where you can decide minimum number of conversions (exclusive) for campaigns to include in clustering model. Default is 0, so all campaigns with conversions >0
   ## To include all, make value: ""
   value: ">0"
-}
-
-
-
-
-local_dependency: {
-  project: "@{CONFIG_PROJECT_NAME}"
 }
