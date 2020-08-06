@@ -1,3 +1,4 @@
+include: "/views/**/*"
 
 explore: data_health_check{
   view_name: redaction_combined

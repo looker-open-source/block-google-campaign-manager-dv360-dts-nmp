@@ -1,3 +1,5 @@
+include: "/views/**/*"
+
 explore: impression {
   view_name: impression
   

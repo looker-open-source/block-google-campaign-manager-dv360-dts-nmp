@@ -1,3 +1,4 @@
+include: "/views/**/*"
 
 explore: activity{
   view_name: activity

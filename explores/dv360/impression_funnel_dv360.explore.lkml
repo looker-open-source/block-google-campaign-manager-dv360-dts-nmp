@@ -1,3 +1,4 @@
+include: "/views/**/*"
 
 explore: impression_funnel_dv360 {
   view_name: impression_funnel_dv360

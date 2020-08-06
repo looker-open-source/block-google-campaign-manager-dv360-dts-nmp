@@ -1,4 +1,4 @@
-
+include: "/views/**/*"
 
 explore: click{
   view_name: click
