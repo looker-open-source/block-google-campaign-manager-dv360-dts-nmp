@@ -47,7 +47,6 @@ DV360:
 <br>
 
 ### BQML
- *DV360
 - What is BQML?
     - [BigQuery ML](https://cloud.google.com/bigquery-ml/docs) enables data scientists and data analysts to build and operationalize ML models on planet-scale structured or semi-structured data, directly inside BigQuery, using simple SQL—in a fraction of the time. 
 
