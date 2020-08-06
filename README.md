@@ -1,5 +1,7 @@
 # Campaign Manager & DV360 Block
 
+If you don't have a DV360 Account and wish to use just the Campaign Manager portion of this block, please use [this repo](https://github.com/llooker/block-google-campaign-manager-dts-nmp).
+
 <br>
 
 ### Why use the Looker Campaign Manager & DV360 Block?
