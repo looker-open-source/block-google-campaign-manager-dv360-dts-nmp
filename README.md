@@ -2,6 +2,8 @@
 
 If you don't have a DV360 Account and wish to use just the Campaign Manager portion of this block, please use [this repo](https://github.com/llooker/block-google-campaign-manager-dts-nmp).
 
+Note: if you are interested in using the DV360 Portion of this Block, please contact maxwellreid@google.com, zevl@google.com, and annajenkins@google.com
+
 ### Why use the Looker Campaign Manager & DV360 Block?
 **(1) Rapid Time To Value** - gain insights from your CM and DV360 data in minutes, not weeks. The Campaign Manager & DV360 Block includes pre-built dashboards and content focusing on the ad management system for advertisers and agencies, with analysis around campaign performance, reach and impressions. Additionally, dashboards have been developed to answer the most asked questions around Campaign Manager and DV360.
 
